@@ -24,7 +24,7 @@ int main()
         mul =1;
     }
     if(num==result)
-    printf("%d is an armstrong number\n",num);
+          printf("%d is an armstrong number\n",num);
     else
      printf("%d is not an armstrong number\n",num);
 }
